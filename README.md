@@ -1,1 +1,1 @@
-Song-improvisation-using-Pytorch
+# Music improvisation with LSTM using Pytorch
